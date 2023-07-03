@@ -1,0 +1,22 @@
+.rangeSlider {
+    border: 1px solid #606060;
+    padding: 10px 0px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 1px -2px 0px #b0adad;
+    p {
+        padding: 5px 15px;
+        font-weight: 600;
+    }
+    .value {
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    input {
+        width: 80%;
+        margin: 0 auto;
+        display: block;
+    }
+}

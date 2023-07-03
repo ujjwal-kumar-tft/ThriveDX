@@ -1,0 +1,49 @@
+.inputAndLabelContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: white;
+  min-height: 90px;
+}
+
+.label {
+  font-weight: 500;
+  margin-bottom: 10px;
+  color: #2b2b2b;
+}
+.input input {
+  width: 100%;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 10px;
+  border: 0;
+  background-color: rgb(229, 237, 248);
+  height: 30px;
+}
+
+.input input:focus {
+  outline: 2px solid #5c7cfa;
+}
+
+.disabledInput input {
+  background-color: lightgray;
+  cursor: not-allowed;
+}
+
+.invalid input {
+  outline: 2px solid #ff4d4f !important;
+}
+
+.suffixIcon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.suffixIconText {
+  margin-top: 5px;
+  color: #666;
+  font-size: 14px;
+}

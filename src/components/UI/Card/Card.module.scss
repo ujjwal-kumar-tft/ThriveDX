@@ -1,0 +1,26 @@
+.container {
+  height: 20vh;
+  width: 20vw;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 0px 2px 2px gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.containerBody {
+  height: 90%;
+  width: 95%;
+  border-radius: 10px;
+}
+@media (max-width: 374px) {
+  .container {
+    height: 15vh;
+    width: 80vw;
+    margin: 0 auto;
+  }
+
+  .containerBody {
+    height: 85%;
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ujjwal-kumar-tft/thriveDx/static/css/main.ce85f617.css",
+    "main.js": "/ujjwal-kumar-tft/thriveDx/static/js/main.2d2781ef.js",
+    "static/js/787.cd45e785.chunk.js": "/ujjwal-kumar-tft/thriveDx/static/js/787.cd45e785.chunk.js",
+    "index.html": "/ujjwal-kumar-tft/thriveDx/index.html",
+    "main.ce85f617.css.map": "/ujjwal-kumar-tft/thriveDx/static/css/main.ce85f617.css.map",
+    "main.2d2781ef.js.map": "/ujjwal-kumar-tft/thriveDx/static/js/main.2d2781ef.js.map",
+    "787.cd45e785.chunk.js.map": "/ujjwal-kumar-tft/thriveDx/static/js/787.cd45e785.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce85f617.css",
+    "static/js/main.2d2781ef.js"
+  ]
+}
